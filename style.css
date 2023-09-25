@@ -1,3 +1,7 @@
 body{
-    background-color: aquamarine;
+    background-color: aquamarine; 
+}
+
+.border{
+    border: 2px solid black;
 }
